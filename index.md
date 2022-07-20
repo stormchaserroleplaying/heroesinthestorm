@@ -13,7 +13,7 @@ We play to find out if the adventuring party can thrive amidst the teeming threa
   
   A Stormchaser Roleplaying Publication<br>
   
-  <a href="https://stormchaserroleplaying.github.io/">stormchaserroleplaying.github.io</a><br>
+  <a href="https://stormchaser-roleplaying.github.io/">stormchaserroleplaying.github.io</a><br>
   
   <a href="mailto:stormchaserroleplaying@gmail.com">stormchaserroleplaying@gmail.com</a><br>
   

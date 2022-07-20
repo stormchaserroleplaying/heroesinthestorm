@@ -1,0 +1,12 @@
+[submodule "docs/03_TheParty"]
+	path = docs/03_TheParty
+	url = https://github.com/heroesinthestorm/03_TheParty
+[submodule "docs/01_TheBasics"]
+	path = docs/01_TheBasics
+	url = https://github.com/heroesinthestorm/01_TheBasics
+[submodule "docs/02_Characters"]
+	path = docs/02_Characters
+	url = https://github.com/heroesinthestorm/02_Characters
+[submodule "docs/10_TheWorldofArden"]
+	path = docs/10_TheWorldofArden
+	url = https://github.com/heroesinthestorm/10_TheWorldofArden

@@ -3,3 +3,6 @@ description: The official source for the Heroes in the Storm roleplaying game.
 remote_theme: just-the-docs/just-the-docs
 color_scheme: dark
 logo: HitS-Logo.png
+aux_links:
+  "Home":
+    - "https://stormchaserroleplaying.com"

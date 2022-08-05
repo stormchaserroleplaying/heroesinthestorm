@@ -13,8 +13,6 @@ We play to find out if the adventuring party can thrive amidst the teeming threa
   
   A Stormchaser Roleplaying Publication<br>
   
-  <a href="https://stormchaserroleplaying.com/heroesinthestorm/">www.stormchaserroleplaying.com/heroesinthestorm</a><br>
-  
   <a href="mailto:stormchaserroleplaying@gmail.com">stormchaserroleplaying@gmail.com</a><br>
   
   <a href="https://twitter.com/keyrelin">@Keyrelin</a> on Twitter

@@ -2,7 +2,7 @@
 title: The Conversation
 parent: The Core System
 grand_parent: The Basics
-nav_order: 2
+nav_order: 1
 ---
 
 # The Conversation

@@ -19,7 +19,7 @@ All the dice systems in the game are expressions of this basic format. When you'
 
 The most common result is **4**: full success. This means that your character will tend to succeed. *Heroes in the Storm* is a game about heroic characters on epic adventures. The dice mechanic reinforces this by making full success crop up again and again.
 
-To create a dice pool for a roll, you'll use a **trait** (like your **Skulk** or your **Prowess** or your party’s Tier) and take dice equal to its **rating**. You'll usually end up with one to four dice. Even one die is pretty good in this game; a 50% chance of success. The most common traits you'll use are the **action ratings** of the player characters. A player might roll dice for their **Skirmish** action rating when they fight an enemy, for example.
+To create a dice pool for a roll, you'll use a **trait** (like your **Skulk** or your **Prowess** or your party’s Tier) and take dice equal to its **rating**. You'll usually end up with one to five dice. Even one die is pretty good in this game; a 50% chance of success. The most common traits you'll use are the **action ratings** of the player characters. A player might roll dice for their **Skirmish** action rating when they fight an enemy, for example.
 
 There are four types of rolls that you'll use most often in the game:
 * **Action Roll.** When a PC attempts an action that’s dangerous or troublesome, you make an action roll to find out how it goes. Action rolls and their effects and consequences drive most of the game.

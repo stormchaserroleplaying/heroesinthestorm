@@ -1,8 +1,8 @@
 ---
-title: Actions & Attributes
+title: Actions and Attributes
 parent: The Basics
 has_children: true
 nav_order: 3
 ---
 
-# Actions & Attributes
+# Actions and Attributes

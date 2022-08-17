@@ -1,7 +1,7 @@
 ---
 title: Making The Game Your Own
-parent: The Basics
-grand_parent: Overview
+parent: Overview
+grand_parent: The Basics
 nav_order: 10
 ---
 

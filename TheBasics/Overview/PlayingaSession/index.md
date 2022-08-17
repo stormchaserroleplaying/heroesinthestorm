@@ -1,7 +1,7 @@
 ---
 title: Playing A Session
-parent: The Basics
-grand_parent: Overview
+parent: Overview
+grand_parent: The Basics
 nav_order: 6
 ---
 

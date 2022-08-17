@@ -22,12 +22,12 @@ The most common gather information actions are **Surveying** the situation to re
 
 Sometimes, you’ll have to maneuver yourself into position before you can gather information. For example, you might have to **Prowl** to a good hiding place first and then **Study** the cultists when they perform their dark ritual.
 
-### Investigation
+## Investigation
 Some questions are too complex to answer immediately with a single gather information roll. For instance, you might want to discover the network of contraband smuggling routes that the Hive uses throughout Duskwall. In these cases, the GM will tell you to start a **long-term project** that you work on during **downtime**.
 
 You track the investigation project using a progress clock. Once the clock is filled, you have the evidence you need to ask several questions about the subject of your investigation as if you had great effect.
 
-#### Gather Information
+## Making a Gather Information Roll
 *Ask a question and make an action roll or a fortune roll. The GM answers you honestly, with a level of detail depending on the effect level.*
 
 | Effect | Result |

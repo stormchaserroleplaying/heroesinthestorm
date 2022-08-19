@@ -2,6 +2,7 @@
 title: Resistance
 parent: The Basics
 nav_order: 10
+has_children: true
 ---
 
 # Resistance & Armour

@@ -6,7 +6,7 @@ nav_order: 7
 ---
 
 # Before You Start
-Read this book once through. You won’t immediately understand everything until you see it play. You won’t get all the rules right the first time. That’s fine; the rules will make more sense when you read them again after you play. The system of *Heroes in the Storm* is designed to be learned as an ongoing process. Each time you play you’ll get better, until everything is second nature.
+Read these rules once through. You won’t immediately understand everything until you see it play. You won’t get all the rules right the first time. That’s fine; the rules will make more sense when you read them again after you play. The system of *Heroes in the Storm* is designed to be learned as an ongoing process. Each time you play you’ll get better, until everything is second nature.
 
 You might be the only person in the game group that’s read the book. That’s fine, too, but then it’s on you to convey everything to the other players, so that's a job that you're taking on.
 

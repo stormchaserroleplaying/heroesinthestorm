@@ -1,5 +1,5 @@
 ---
-title: Resistance & Armour
+title: Resistance
 parent: The Basics
 nav_order: 10
 ---
@@ -32,18 +32,3 @@ The GM may also threaten several consequences at once, then the player may choos
 > *"I'll resist losing the opportunity by grappling her as she attacks. She can stab me, but I don't want to let her escape."*
 
 Once you decide to resist a consequence and roll, you suffer the stress indicated. You can't roll first and see how much stress you'll take, then decide whether or not to resist.
-
-## Armour
-If you have a type of armor that applies to the situation, you can mark an armor
-box to reduce or avoid a consequence, instead of rolling to resist.
-
-> Alaris is taking level 2 harm, "Cut to the Ribs", and the fight isn't even over yet, so Nick decides to use Alaris's armour to reduce the harm. He marks the armour box and the harm becomes level 1, "Bruised". If Alaris was wearing heavy armour, he could mark a second armor box and reduce the harm again, to zero.
-
-When an armor box is marked, it can’t be used again until it’s restored. All of your armor is restored when you choose your **load** for the next score. See **Loadout**.
-
-## Death
-There are a couple of ways for a PC to die:
-* If they suffer level 4 fatal harm and they don’t resist it, they die. *Sometimes this is a choice a player wants to make, because they feel like it wouldn’t make sense for the character to survive or it seems right for their character to die here.
-* If they need to record harm at level 3 and it’s already filled, they suffer a catastrophic consequence, which might mean sudden death (depending on the circumstances).
-
-When your character dies, you can create a new adventuer to play. Maybe you "promote" one of the party's NPC allies to a PC, or create a brand-new character who joins the party.

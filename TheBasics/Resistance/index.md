@@ -14,9 +14,9 @@ You make the roll using one of your character’s **attributes** (**Insight**, *
 * **Prowess**: Consequences from physical strain or injury.
 * **Resolve**: Consequences from mental strain or willpower.
 
-Your character suffers **6 stress** when they resist, **minus the highest die result from the resistance roll**. So, if you rolled a 4, you’d suffer 2 stress. If you rolled a 6, you’d suffer zero stress. If you get a **critical** result, you also **clear 1 stress**.
+Your character suffers **5 stress** when they resist, **minus the highest die result from the resistance roll**. So, if you rolled a 2, you’d suffer 3 stress. If you rolled a 4, you’d suffer 1 stress. If you get a **critical** result, you **suffer 0 stress**.
 
-> *Nick’s character, Alaris, is in a desperate **Skirmish** with several Sarameian duelists and one of them lands a blow with their sword. Since the position was desperate, the GM inflicts severe harm (modified by any other factors). They tell Nick to record level 3 harm, “Gut Stabbed” on Alaris’s sheet. Nick decides to resist the harm, instead. The GM says he can reduce the harm by one level if he resists it. Ian rolls 3d for Alaris’s **Prowess** attribute and gets a 5. Alaris takes 1 stress and the harm is reduced to level 2, "Cut to the Ribs".*
+> *Nick’s character, Alaris, is in a desperate **Skirmish** with several Sarameian duelists and one of them lands a blow with their sword. Since the position was desperate, the GM inflicts severe harm (modified by any other factors). They tell Nick to record level 3 harm, “Gut Stabbed” on Alaris’s sheet. Nick decides to resist the harm, instead. The GM says he can reduce the harm by one level if he resists it. Nick rolls 3d for Alaris’s **Prowess** attribute and gets a 3. Alaris takes 2 stress and the harm is reduced to level 2, "Cut to the Ribs".*
 
 Usually, a resistance roll **reduces the severity** of a consequence. If you're going to suffer fatal harm, for example, a resistance roll would reduce the harm to severe, instead. Or if you got a complication when you were sneaking into the manor house, and the GM was going to mark three ticks on the “Alert” clock, she’d only mark two (or maybe one) if you resisted the complication.
 

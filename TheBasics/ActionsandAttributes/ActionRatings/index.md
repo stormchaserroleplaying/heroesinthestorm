@@ -6,16 +6,20 @@ nav_order: 1
 ---
 
 # Action Ratings
-There are twelve **actions** in the game that the player characters use to overcome obstacles:
+There are sixteen **actions** in the game that the player characters use to overcome obstacles:
 * Channel
 * Command
 * Consort
 * Hunt
+* Lore
+* Natural Philosophy
 * Skirmish
 * Skulk
 * Study
 * Survey
 * Sway
+* Thaumatology
+* Theology
 * Tinker
 * Traverse
 * Wreck
@@ -42,4 +46,3 @@ If you're coming to *Heroes in the Storm* having previously played a d20 system 
 | 2 | +4 |
 | 3 | +7 |
 | 4 | +9 |
-| 5 | +10 |

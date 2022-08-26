@@ -20,15 +20,14 @@ There are twelve **actions** in the game that the player characters use to overc
 * Traverse
 * Wreck
 
-Each action has a rating (from one to five) that tells you how many dice to roll when you perform that action. Qualitatively, each rating can be understood as the following level of competence:
+Each action has a rating (from one to four) that tells you how many dice to roll when you perform that action. Qualitatively, each rating can be understood as the following level of competence:
 
 | Action Rating | Competence |
 |:-------------:|:----------:|
 | 1 | Novice |
-| 2 | Apprentice |
-| 3 | Adept |
-| 4 | Expert |
-| 5 | Master |
+| 2 | Adept |
+| 3 | Expert |
+| 4 | Master |
 
 Action ratings don't just represent skill or training. You're free to describe *how* your character performs that action based on the type of person they are. Maybe your character is good at **Command** because they have a scary stillness to them, while another character barks orders and intimidates people with their military bearing.
 

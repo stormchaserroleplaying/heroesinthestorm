@@ -1,6 +1,6 @@
 ---
 title: Heroes in the Storm
-nav_order: 1
+nav_exclude: true
 ---
 
 Heroes in the Storm is a game powered by Blades in the Dark about a party of brave heroes venturing into the most dangerous corners of the land in search of gold and glory in a world of fantastic adventure. There's magic and gods, angels and demons, bloody skirmishes, deceptions, betrayals, victories, and deaths.

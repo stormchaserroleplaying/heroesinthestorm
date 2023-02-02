@@ -1,7 +1,7 @@
 ---
 title: Infernal Lineage
-parent: Lineages
-grand_parent: Character Creation
+parent: Character Creation
+grand_parent: Characters
 ---
 
 # Infernal Lineage

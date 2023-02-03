@@ -23,7 +23,7 @@ You may tick your Ability Clock twice to allow the undefinable power of the Abys
 * Serrated claws capable of scaling walls and ceilings.
 * Your form grows to twice its normal size.
 * Your bones warp into flexible cartilage that allows for inhuman limb movement and passage through incredibly tight space.
-* Many eyes cover the upper portion of your face, allowing enhanced sight able to pierce magical influence and illusion.
+* Many eyes cover the upper portion of your face, allowing 360-degree vision.
 
 ### Sanguine Plague
 Large serpents or insects spring forth from any surface touched by your blood. These creatures are poisonous and aggressive towards anyone whom you wish harm.

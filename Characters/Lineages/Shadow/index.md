@@ -1,13 +1,13 @@
+---
 title: Shadow Lineage
-parent: (Specify) Lineages
-grand_parent: Character Creation
+parent: Lineages
+grand_parent: Characters
 ---
 
 Shadow Lineage
 Whether by birth or by unholy magic, darkness and shadow suffuse your soul. Though warmth and joy may seem distant to you, that is only a small price to pay for the powers you have been granted.
 
 ## Special Abilities
-
 
 ### Eyes of Night
 Your eyes pierce through even the darkest shadows, magical or otherwise. Darkness never negatively impacts your **effect** when taking actions that rely on your ability to see

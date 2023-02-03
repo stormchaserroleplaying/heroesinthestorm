@@ -1,6 +1,6 @@
 ---
 title: Choose a Playbook
-parent: Creation
+parent: Character Creation
 grand_parent: Characters
 nav_order: 1
 ---

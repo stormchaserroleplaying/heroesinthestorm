@@ -1,6 +1,6 @@
 ---
 title: Loadout
-parent: Creation
+parent: Character Creation
 grand_parent: Characters
 nav_order: 7
 ---

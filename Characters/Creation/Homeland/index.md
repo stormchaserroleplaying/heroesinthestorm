@@ -1,6 +1,6 @@
 ---
 title: Choose a Homeland
-parent: Creation
+parent: Character Creation
 grand_parent: Characters
 nav_order: 3
 ---

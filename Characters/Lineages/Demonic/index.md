@@ -10,10 +10,10 @@ The unspeakable power and corruption of the abyss found its way into your bloodl
 ## Special Abilities
 
 ### Demonic Arsenal
-You can manifest claws (treated as blades) as well as scales, chitin, or other inhuman defensive features (treated as armour). If you already have armour, gain heavy armour.
+You can manifest claws (treated as blades) as well as scales, chitin, or other inhuman defensive features at will (treated as armour). If you already have armour, gain heavy armour.
 
 ### Spontaneous Mutation
-Your physiology resonates with the seed of chaos that lies within your soul, allowing you to warp and alter your body with ease. Take +1d whenever you Channel in order to shift your form, alter your appearance, or manifest new bodily adaptations
+Your physiology resonates with the seed of chaos that lies within your soul, allowing you to warp and alter your body with ease. You may Channel in order to shift your form, alter your appearance, or manifest new bodily adaptations.
 
 ### Caustic Blood
 When you suffer harm after an enemy has physically attacked you, you may tick your Ability Clock to make a Skirmish Chance roll as your volatile blood sprays out at them from your wound.

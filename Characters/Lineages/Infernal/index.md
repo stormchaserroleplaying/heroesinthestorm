@@ -16,7 +16,7 @@ Hell is governed by a strict hierarchy in which the weak submit to the strong. Y
 You infest the body of a target with the influence of the Nine Hells. An infernal sigil manifests upon the flesh of a creature in range that saps at their life force; anyone attacked by this creature gains +1d to resist. If the marked creature dies during this encounter, you clear 1 stress.
 
 ### Devil's Tongue
-People find you disarmingly alluring or amiable and they readily bend to your wishes. You have potency when you Consort or Sway using deceitful or seductive words. Additionally, you have greater resistance to magics that invoke the truth, for your words are a mire of hellish obfuscation.
+People find you disarmingly alluring or amiable and they readily bend to your wishes. You have potency when you Consort or Sway using deceitful or seductive words. Additionally, you have greater resistance to magics that invoke the truth, for your words are a mire of hellish obfuscation. You incur 1 less stress to resist magics that demand truth.
 
 ### Hellish Constitution
 Each layer of hell exist is more hostile than the last, but your body is adaptated to withstand such conditions. You incur 1 less stress when resisting damage from fire, cold, and physical attacks from nonmagical weapons.

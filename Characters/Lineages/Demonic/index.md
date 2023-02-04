@@ -9,25 +9,26 @@ The unspeakable power and corruption of the abyss found its way into your bloodl
 
 ## Special Abilities
 
-### Demonic Arsenal
-You can manifest claws (treated as blades), as well as scales, chitin, or other inhuman defensive features (treated as armour). If you already have armour, gain heavy armour. These transformations can be called for at will.
+### Blood Rush
+Your body responds to violence like a stimulant. When you successfully attack a new target for the first time, you may tick your ability clock to clear 1 stress.
 
-### Spontaneous Mutation
-Your physiology resonates with the seed of chaos that lies within your soul, allowing you to warp and alter your body with ease. You may Channel in order to shift your form, alter your appearance, or manifest new bodily adaptations.
+### Demonic Arsenal
+You can call upon your demon blood to transform into a monstrous demonic form. At will, you may manifest both claws (treated as blades) and scales or chitin (treated as armour). This armour stacks with worn armour to become heavy armour.
 
 ### Caustic Blood
-When you suffer harm after an enemy has physically attacked you, you may tick your Ability Clock to make a Skirmish action roll as your volatile blood sprays out at them from your wound.
+Your blood is volatile and burns objects and creatures like acid.
 
 ### Horrific Transformation
-You may tick your Ability Clock twice to allow the undefinable power of the Abyss to spread unchecked through your body. You develop two of the listed traits, and may push yourself or take a Devil’s Bargain for more.
-* Serrated claws capable of scaling walls and ceilings.
+You allow the latent demonic power inside of you to surface and make its presence known. Tick your ability clock twice and choose two effects from the list below. Your body warps and shifts to produce these changes.
+* You grow serrated claws capable of clinging to walls and ceilings.
 * Your form grows to twice its normal size.
-* Your bones warp into flexible cartilage that allows for inhuman limb movement and passage through incredibly tight space.
-* Many eyes cover the upper portion of your face, allowing 360-degree vision.
+* Your bones warp into flexible cartilage that allows for inhuman limb movement and passage through incredibly tight spaces.
+* Many eyes cover the upper portion of your face, granting you 360-degree vision.
+
+Optionally, you may push yourself or take a Devil’s Bargain to manifest a third change.
 
 ### Sanguine Plague
-Large serpents or insects spring forth from any surface touched by your blood. These creatures are poisonous and aggressive towards anyone whom you wish harm.
-The number of creatures generated is dependent on the level of harm inflicted. Level 1 Blood Loss produces 2 creatures, Level 2 produces 3, ect.
+Large serpents or insects spring forth from any surface touched by your blood. These creatures are both poisonous and aggressive. The number of creatures generated is dependent on the level of the harm inflicted. Lesser harm (level 1) produces 1 creature, moderate harm (level 2) produces 2 creatures and severe harm (level 3) produces 3 creatures.
 
-### Blood Rush
-Your body responds to violence like a stimulant. When you successfully attack a new target for the first time, you may tick your Ability Clock to relieve 1 stress.
+### Spontaneous Mutation
+The chaotic nature of your demonic blood warps your flesh, granting you the limited shapeshifting abilities. You may make a Channel action roll to shift your form, alter your appearance, or manifest new bodily adaptations. These changes are often aberrant and difficult to control.

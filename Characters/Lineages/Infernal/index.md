@@ -5,31 +5,31 @@ grand_parent: Characters
 ---
 
 # Infernal Lineage
-Your lineage can be traced back to a powerful entity of hell, which has imbued you with unique and terrible abilities. An Infernal heritage manifests differently for each, often influenced by the extent to which they revel in the patient and methodical evil that partially defines their origin.
+Your lineage can be traced back to a powerful devil of hell, which has imbued you with unique and terrible abilities. An infernal heritage manifests differently for each individual, often influenced by the extent to which they revel in the patient and methodical evil that lies dormant in their blood.
 
 ## Special Abilities
 
 ### Infernal Authority
-Hell is governed by a strict hierarchy in which the weak submit to the strong. You project this same air of superiority when interacting with lesser beings. Creatures of a lower tier than you recognise that you are not to be trifled with and are less inclined to cause trouble for you. When you successfully Command a creature of lesser tier, you may afflict them with Level 1 Harm - Cowed.
+Hell is governed by a strict hierarchy in which the weak submit to the strong. You can tick your ability clock to project this same air of superiority when interacting with lesser beings. While this aura is active, creatures of a lower tier than you recognise that you are not to be trifled with and are less inclined to cause you trouble. Additionally, when you Command a creature of lesser tier, they are cowed by the authority of your presence and submit to your wishes.
 
 ### Brand of Damnation
-You infest the body of a target with the influence of the Nine Hells. An infernal sigil manifests upon the flesh of a creature in range that saps at their life force; anyone attacked by this creature gains +1d to resist. If the marked creature dies during this encounter, you clear 1 stress.
+You can tick your ability clock to touch a creature and mark them with an infernal sigil through which you can exert your influence. The sigil is temporary, but causes the target burning pain like a brand. For as long as the sigil can be maintained, the creature's actions are reduced in effect. If the marked creature dies while the brand remains, you clear stress equal to the creature's tier.
 
 ### Devil's Tongue
-People find you disarmingly alluring or amiable and they readily bend to your wishes. You have potency when you Consort or Sway using deceitful or seductive words. Additionally, you incur 1 less stress when resisting magic that demands the truth.
+People find you disarmingly alluring or amiable, readily bending to your wishes. You have potency when you Consort or Sway using deceitful or seductive words. Additionally, your ability to circumlocute means that you suffer 1 less stress when resisting magic that compels you to speak the truth.
 
-### Hellish Constitution
-Each layer of the hells is more hostile than the last, but your body is adaptated to withstand such conditions. You incur 1 less stress when resisting damage from fire, cold, and physical attacks from nonmagical weapons.
+### Infernal Constitution
+The circles of hell feature lakes of ice, poisonous fumes and rivers of fire, and your infernal blood has hardened your body against such conditions. You suffer 1 less stress when resisting the effects of cold, fire, or poison. However, harm that you receive from silver weapons has increased effect.
 
 ### Blade of Phlegethos
-You can manifest an obsidian blade that glows with an internal heat. This weapon can be summoned and dismissed at will, and you can tick your Ability Clock to cause the weapon to emit a powerful wave of flame.
+You can manifest an obsidian blade that glows with an internal heat. This weapon can be summoned and dismissed at will, and you can tick your ability clock to cause it to produce a wave of flame.
 
 ### Dark Contract
-You have learned to scribe infernal contracts that bind a creature to your service. You begin with one such contract already enacted.
+You have learned to scribe infernal contracts that bind a creature to your service. At the GM's discretion, you may begin play with one such contract already enacted.
 
 You determine the terms of the contract. Contracts typically involve a service that the entity will perform for you, such as protecting your life or most valuable possessions or devotion to a concept or cause that you define.
 
-To scribe an infernal contract make a Study action roll, the result of which determines the conditions of the contract, depending on skillfully the fine print and loopholes of the contract are written.
+To scribe an infernal contract make a Study action roll, the result of which determines the conditions of the contract, depending on how skillfully the fine print and loopholes of the contract are written.
 * On a 1, you have to uphold your end of the bargain completely and the other party does not entirely fulfill theirs.
 * On a 2, the contract is equitable and both parties must uphold their end of the bargain.
 * On a 3, the other party must fulfill their obligation, but you must only partially keep your end of the deal.

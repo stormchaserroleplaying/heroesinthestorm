@@ -26,6 +26,8 @@ To scribe an infernal contract make a Study action roll, the result of which det
 * On a 3, the other party must fulfill their obligation, but you must only partially keep your end of the deal.
 * On a 4, the other party must fulfill their obligation, but you must not.
 
+The process of writing such a contract takes at least 8 hours. More at the GM's discretion.
+
 ### Devil's Tongue
 People find you disarmingly alluring or amiable, readily bending to your wishes. You have potency when you Consort or Sway using deceitful or seductive words. Additionally, your ability to circumlocute means that you suffer 1 less stress when resisting magic that compels you to speak the truth.
 

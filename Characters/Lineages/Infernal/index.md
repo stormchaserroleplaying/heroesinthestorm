@@ -19,7 +19,7 @@ You infest the body of a target with the influence of the Nine Hells. An inferna
 People find you disarmingly alluring or amiable and they readily bend to your wishes. You have potency when you Consort or Sway using deceitful or seductive words. Additionally, you incur 1 less stress when resisting magic that demands the truth.
 
 ### Hellish Constitution
-Each layer of hell exist is more hostile than the last, but your body is adaptated to withstand such conditions. You incur 1 less stress when resisting damage from fire, cold, and physical attacks from nonmagical weapons.
+Each layer of the hells is more hostile than the last, but your body is adaptated to withstand such conditions. You incur 1 less stress when resisting damage from fire, cold, and physical attacks from nonmagical weapons.
 
 ### Blade of Phlegethos
 You can manifest an obsidian blade that glows with an internal heat. This weapon can be summoned and dismissed at will, and you can tick your Ability Clock to cause the weapon to emit a powerful wave of flame.

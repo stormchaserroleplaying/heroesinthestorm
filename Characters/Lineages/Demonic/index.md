@@ -1,6 +1,6 @@
 ---
-title: Demonic Lineage
-parent: Character Creation
+title: Demonic
+parent: Lineages
 grand_parent: Characters
 ---
 

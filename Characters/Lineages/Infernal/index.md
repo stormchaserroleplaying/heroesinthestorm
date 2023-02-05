@@ -1,5 +1,5 @@
 ---
-title: Infernal Lineage
+title: Infernal
 parent: Lineages
 grand_parent: Characters
 ---

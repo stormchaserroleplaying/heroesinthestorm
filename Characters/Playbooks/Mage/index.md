@@ -1,9 +1,10 @@
 ---
-title: Mage Playbook
+title: Mage
 parent: Playbooks
 grand_parent: Characters
 ---
 
+# Mage
 Mages include wizards, sorcerers, warlocks and all manner of arcane spellcasters.
 
 ## Special Abilities

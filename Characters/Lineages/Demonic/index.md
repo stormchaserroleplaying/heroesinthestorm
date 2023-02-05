@@ -1,5 +1,5 @@
 ---
-title: Demonic Lineage
+title: Demonic
 parent: Lineages
 grand_parent: Characters
 ---

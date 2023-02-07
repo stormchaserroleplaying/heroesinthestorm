@@ -29,7 +29,7 @@ You can push yourself to do one of the following:*Perform a feat of physical for
 * If you engage a small gang on equal footing, you don’t suffer reduced effect due to scale against a small gang (up to six people)
 
 ### Strength of Spirit
-Strength of Spirit: You may imbue your hands, melee weapons, or tools with magic. You gain potency in combat vs. the supernatural.
+You may imbue your hands, melee weapons, or tools with magic. You gain potency in combat vs. the supernatural.
 
 ### Mule 
 Your load limits are higher. Light: 5. Normal: 7. Heavy: 8.

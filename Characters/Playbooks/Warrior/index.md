@@ -20,6 +20,9 @@ You may imbue your hands, melee weapons, or tools with magic. You gain **potency
 ### Mule 
 Your load limits are higher. Light: 5. Normal: 7. Heavy: 8.
 
+### Unyielding
+The force of your will keeps you fighting at peak efficiency, even when the odds are against you. You may tick your Ability Clock to ignore your highest level of harm on your next roll.
+
 ### Predator
 You gain **potency** whenever you gather information on a weakness or vulnerability of your enemy during combat.
 

@@ -23,7 +23,7 @@ Your keen senses make it impossible to ambush you. You gain potency to all actio
 You are able to incite mortal terror in those whom you threaten. You gain potency when trying to intimidate. Additionally, when you command a target who is frightened, take +1d.
 
 ### Unstoppable
-You can push yourself to do one of the following:*Perform a feat of physical force that verges on the superhuman-engage a small gang on equal footing in close combat.
+You can push yourself to do one of the following: *Perform a feat of physical force that verges on the superhuman-engage a small gang on equal footing in close combat.
 * When you push yourself to activate this ability, you still get one of the normal benefits of pushing yourself (+1d, +1 effect, ect.) in addition to the special ability.
 * If you perform a feat that verges on the superhuman, you might break a metal weapon with your bare hands, tackle a galloping horse, lift a huge weight, ect.
 * If you engage a small gang on equal footing, you don’t suffer reduced effect due to scale against a small gang (up to six people)

@@ -13,7 +13,7 @@ Whether through the fertile power of a magical storm, a bloodline traced back to
 You don't just command lightning, it flies through your very veins. Lightning-based attacks suffer reduced effect against you, and you may tick your Ability Clock when you are hit with lightning to ignore harm on your next action as the lightning empowers you.
 
 ### Be Like Water
-You are at one with water and exemplify its properties. You are able to breathe water and move through it unimpeded. Additionally, you may tick your Ability Clock to alter the state of free flowing water near you. 
+You are at one with water and exemplify its properties. You are able to breathe water and move through it unimpeded. Additionally, you may tick your Ability Clock to alter the state of free flowing water near you (i.e. transform it into ice or steam). 
 
 ### Stoneborn
 You are sturdy, reliable and unmoveable. Non-metal weapons have reduced effect against your impenetrable skin and you may tick your Ability Clock to mold earth around you or pass through it as if it were water. 
@@ -29,6 +29,3 @@ Your spirit carries the strength, passion and life-giving energy that is fire it
 
 ### Storm's Might
 The primordial power of great storms dwell within you, waiting to be called upon. You are able to move as thunder does, appearing to teleport to a nearby space. Additionally, you may tick your ability clock after a skirmish, wreck, or channel roll to knock a target back or increase effect against a structure. 
-
-### Toxic Blessing
-Your body is capable of repurposing poison, using it to soothe and repair. You may tick your ability clock after encountering a poison-based attack to alleviate your highest level of harm, or store the poison in your body to unleash in your next attack.

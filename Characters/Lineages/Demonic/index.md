@@ -36,6 +36,5 @@ The chaotic nature of your demonic blood warps your flesh, granting you limited 
 ### Living Corruption
 You tick your ability clock to make yourself a sentient anathema to life, poisoning and altering all that you touch with malignance. While active, water, crops, and other aspects of the natural world are wounded by your touch, doing damage equal to your tier +1. Additionally, those you attack while in this state have a chance to be poisoned, reducing their effect.
 
-### Abyssal Host/Reliquary
-You may host the monstrous spirits of the Abyss within your soul, allowing them to strike out with terrible and indiscriminate violence. Rather than resist, you may tick your ability clock in response to receiving harm to have the spirits lash out and inflict equal harm to your aggressor. You incur stress equal to the level of harm endured when you use this ability.
-You may tick your ability clock to cast these spirits out without provocation to silently hound your target. After a time period of the GM’s discretion, the spirits cause level 1 harm to the target, and you incur 1 stress upon the moment of attack. 
+### Abandon Hope
+Your body opens in a revolting manner to reveal the seed of chaos that lies within you. Any who gaze upon you while this seed is exposed suffer level 1 harm-Demoralized. Any subsequent actions peformed by affected targets incurs another level of stress if they do not avert their eyes from you as their psyche fractures. You cannot move while your seed of chaos is revealed, and you immediately suffer Level 3 harm if this seed is directly harmed.
